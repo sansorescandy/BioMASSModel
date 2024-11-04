@@ -1,7 +1,6 @@
 package multiagent.model.agent;
 
 import java.util.ArrayList;
-import multiagent.model.agent.Agent;
 
 /**
  * @author candysansores
