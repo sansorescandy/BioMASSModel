@@ -1,4 +1,4 @@
-package biomass.simulator.gui;
+package multiagent.simulator.gui;
 
 public class Parameter {
     private float width;

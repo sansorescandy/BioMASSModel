@@ -1,6 +1,6 @@
 package multiagent.model.environment;
 
-import biomass.model.utils.Vector2d;
+import multiagent.model.utils.Vector2d;
 
 public class PhysicalObject {
 	public int id;

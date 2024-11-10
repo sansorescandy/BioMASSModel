@@ -1,4 +1,4 @@
-package biomass.simulator.gui;
+package multiagent.simulator.gui;
 
 
 import javax.swing.*;
@@ -66,7 +66,7 @@ public class Main extends JFrame {
 		add(txtPreyAcceleration);
 		add(new JLabel("Prey Max Speed:"));
 		add(txtPreyMaxSpeed);
-		add(new JLabel("Predator Perception Distance"));
+		add(new JLabel("Predator Perception Distance:"));
 		add(txtPredPerceptionDistance);
 		add(new JLabel("Predator Kill Radius:"));
 		add(txtKillRadius);

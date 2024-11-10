@@ -1,12 +1,13 @@
-package biomass.continuospace.test;
+package biomass.continuospace.example;
 
 import java.awt.Color;
 import java.awt.Graphics2D;
 import java.awt.geom.Ellipse2D;
-import biomass.model.utils.Vector2d;
-import biomass.simulator.gui.SimulationModel;
-import biomass.simulator.gui.DrawableObject;
+
 import multiagent.model.agent.Agent;
+import multiagent.model.utils.Vector2d;
+import multiagent.simulator.gui.DrawableObject;
+import multiagent.simulator.gui.SimulationModel;
 
 public class Predator extends Agent implements DrawableObject {
 	private Prey target; 

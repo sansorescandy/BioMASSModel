@@ -1,4 +1,4 @@
-package biomass.model.utils;
+package multiagent.model.utils;
 
 /**
  * @author candysansores

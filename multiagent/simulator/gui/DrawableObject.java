@@ -1,4 +1,4 @@
-package biomass.simulator.gui;
+package multiagent.simulator.gui;
 
 import java.awt.Graphics2D;
 

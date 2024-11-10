@@ -1,7 +1,7 @@
 /**
  * 
  */
-package biomass.simulator.gui;
+package multiagent.simulator.gui;
 
 import java.awt.Color;
 import java.util.ArrayList;

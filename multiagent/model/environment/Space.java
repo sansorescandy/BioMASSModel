@@ -1,7 +1,8 @@
 package multiagent.model.environment;
 
 import java.util.ArrayList;
-import biomass.model.utils.Vector2d;
+
+import multiagent.model.utils.Vector2d;
 
 /**
  * @author candysansores

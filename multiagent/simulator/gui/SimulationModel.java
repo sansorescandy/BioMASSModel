@@ -1,4 +1,4 @@
-package biomass.simulator.gui;
+package multiagent.simulator.gui;
 
 import java.awt.BorderLayout;
 import java.awt.event.WindowEvent;
@@ -9,8 +9,8 @@ import java.util.Random;
 
 import javax.swing.JFrame;
 
-import biomass.continuospace.test.Predator;
-import biomass.continuospace.test.Prey;
+import biomass.continuospace.example.Predator;
+import biomass.continuospace.example.Prey;
 import multiagent.model.agent.Scheduler;
 import multiagent.model.environment.Space;
 import java.awt.event.WindowAdapter;
