@@ -1,4 +1,3 @@
-# This is the repository of the BioMASS space model
+# BioMASS space model Repository
 
-and a prey-predator simulation test of that model with supporting classes implementing a multi-agent system.
-The BioMASS Simulation Toolkit is a Marine Ecosystem Simulation tool. 
+BioMASS introduces a highly efficient spatial model tailored for MAS that require dynamic neighborhood exploration and real-time locomotion across large spatial environments. The innovative aspect of BioMASS lies in its use of a quadruply linked list structure, which drastically reduces the computational complexity traditionally associated with agent-based model- ing platforms. This approach allows BioMASS to maintain constant-time performance for most of its core functions, including neighborhood search and agent movement, regardless of the environment’s size, the number of agents, or their perception range.
