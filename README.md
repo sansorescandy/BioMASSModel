@@ -13,4 +13,6 @@ The spatial model is integrated into a simple yet versatile Java framework for m
 
 In addition to the standard GUI implementation, we have developed specialized classes named Headless.java, designed specifically for environments that do not support graphical interfaces, such as CodeOcean. These headless classes facilitate the execution of the simulation without the need for a GUI, enabling users to verify the model's functionality in a streamlined manner. Instead of using a graphical interface, the simulation saves images of each step into the output folder, providing a visual representation of the simulation's progress.
 
+### Author: Candy E. Sansores
+
 
