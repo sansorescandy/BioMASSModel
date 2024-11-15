@@ -1,0 +1,14 @@
+BioMASSver                             0.22
+date                             2013/12/19
+hour                               19:15:00
+refuges                                 264
+refs_minrad                         50.1613
+refs_maxrad                        247.6689
+refs_areafrac                        0.0100
+refs_disp                        12080.2780
+refs_sizeclasses                         10
+refs_sizeclass                      class00      class01      class02      class03      class04      class05      class06      class07      class08      class09
+refs_maxsize                        69.9120      89.6628     109.4136     129.1643     148.9151     168.6659     188.4166     208.1674     227.9181     247.6689
+refs_count                               33           24           25           22           30           29           34           18           22           27
+refs_use                  step
+                             0            0            0            0            0            0            0            0            0            0            0

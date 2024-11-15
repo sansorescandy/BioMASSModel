@@ -1,0 +1,20 @@
+BioMASSver                             0.22
+date                             2018/02/05
+hour                               17:09:11
+biomass.model.taxonomy.Plant2 
+Generic                       
+Plant                         
+longevity                             36499
+linf                                 0.0000
+t0                                   0.0000
+k                                    0.5000
+a                                    0.0000
+b                                    0.0000
+newborn_orgs                            400
+pop_deathrate                        0.0007
+rep_cycle                             18250
+age_classes                               2
+                         steps       orgs00        hid00     killed00    starved00   leanmass00    fatmass00   killmass00  starvemas00       orgs01        hid01     killed01    starved01   leanmass01    fatmass01   killmass01  starvemas01
+                             0          400            0            0            0  178023.5837   83775.8041       0.0000       0.0000            0            0            0            0       0.0000       0.0000       0.0000       0.0000
+                          3600          400            0            0            0   24762.4734   11652.9287  234719.5482       0.0000            0            0            0            0       0.0000       0.0000       0.0000       0.0000
+                          7200          400            0            0            0   31476.6857   14812.5580  234719.5482       0.0000            0            0            0            0       0.0000       0.0000       0.0000       0.0000

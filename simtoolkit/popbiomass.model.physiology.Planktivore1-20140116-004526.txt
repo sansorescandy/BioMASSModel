@@ -1,0 +1,18 @@
+BioMASSver                             0.22
+date                             2014/01/16
+hour                               00:45:26
+biomass.model.physiology.Planktivore1
+Girella-Nigricans             
+Chopa-verde                   
+longevity                              3904
+linf                                68.3000
+t0                                  -0.4200
+k                                    0.2700
+a                                    0.0199
+b                                    3.0063
+newborn_orgs                           8000
+pop_deathrate                        0.0007
+rep_cycle                               365
+age_classes                              11
+                         steps       orgs00        hid00     killed00    starved00   leanmass00    fatmass00   killmass00  starvemas00       orgs01        hid01     killed01    starved01   leanmass01    fatmass01   killmass01  starvemas01       orgs02        hid02     killed02    starved02   leanmass02    fatmass02   killmass02  starvemas02       orgs03        hid03     killed03    starved03   leanmass03    fatmass03   killmass03  starvemas03       orgs04        hid04     killed04    starved04   leanmass04    fatmass04   killmass04  starvemas04       orgs05        hid05     killed05    starved05   leanmass05    fatmass05   killmass05  starvemas05       orgs06        hid06     killed06    starved06   leanmass06    fatmass06   killmass06  starvemas06       orgs07        hid07     killed07    starved07   leanmass07    fatmass07   killmass07  starvemas07       orgs08        hid08     killed08    starved08   leanmass08    fatmass08   killmass08  starvemas08       orgs09        hid09     killed09    starved09   leanmass09    fatmass09   killmass09  starvemas09       orgs10        hid10     killed10    starved10   leanmass10    fatmass10   killmass10  starvemas10
+                             0            0            0            0            0       0.0000       0.0000       0.0000       0.0000            0            0            0            0       0.0000       0.0000       0.0000       0.0000         8000            0            0            0 8476895.6828 1745716.0148       0.0000       0.0000         6230            0            0            0 11259593.0224 2292156.6466       0.0000       0.0000         4852            0            0            0 12503018.4832 2547908.4453       0.0000       0.0000         3778            0            0            0 12469396.6802 2576869.9874       0.0000       0.0000         2943            0            0            0 11563102.6058 2357439.8514       0.0000       0.0000         2292            0            0            0 10229659.7837 2100906.0614       0.0000       0.0000         1785            0            0            0 8746162.9490 1794454.2272       0.0000       0.0000         1390            0            0            0 7302581.1651 1500325.6945       0.0000       0.0000            0            0            0            0       0.0000       0.0000       0.0000       0.0000

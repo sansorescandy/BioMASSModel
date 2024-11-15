@@ -1,0 +1,18 @@
+BioMASSver                             0.22
+date                             2013/12/19
+hour                               19:15:00
+biomass.model.physiology.Plankton2
+Generic                       
+Plankton                      
+longevity                             36499
+linf                                 0.0000
+t0                                   0.0000
+k                                    0.5000
+a                                    0.0000
+b                                    0.0000
+newborn_orgs                            400
+pop_deathrate                        0.0007
+rep_cycle                             18250
+age_classes                               2
+                         steps       orgs00        hid00     killed00    starved00   leanmass00    fatmass00   killmass00  starvemas00       orgs01        hid01     killed01    starved01   leanmass01    fatmass01   killmass01  starvemas01
+                             0          400            0            0            0 1424188.6696  670206.4328       0.0000       0.0000            0            0            0            0       0.0000       0.0000       0.0000       0.0000
